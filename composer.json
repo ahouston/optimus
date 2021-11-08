@@ -1,5 +1,5 @@
 {
-    "name": "jenssegers/optimus",
+    "name": "ahouston/optimus",
     "description": "Id obfuscation based on Knuth's integer hash method",
     "keywords": ["obfuscation", "ids", "optimus", "hashids", "id obfuscation"],
     "homepage": "https://github.com/jenssegers/optimus",
